@@ -36,7 +36,7 @@ Each layer contains:
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/QBET.git
+git clone https://github.com/sVinit108/QBET.git
 cd QBET
 
 # Create virtual environment
