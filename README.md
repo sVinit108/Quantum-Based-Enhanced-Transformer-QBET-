@@ -86,7 +86,7 @@ QBET_hparams = {
 Modify `setup_training.py` to load your dataset:
 ```python
 # Replace Penn Treebank loading
-raw_dset = load_dataset("your_dataset_name")
+raw_dset = load_dataset("dataset_name")
 ```
 
 ## Results
